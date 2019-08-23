@@ -1,9 +1,9 @@
-[{
+{
   "ReturnMessage": "successful",
   "ExternalCustomerNumber": "04-275-8225",
   "CustomerConsentKey": "2018-11-21 02:27:14",
   "TaxYear": 2002,
-  "DecisionShText ": "Oth injury of unspecified blood vessel of thorax, sequela",
+  "DecisionShText ": "Oth injury of unspecified blood vessel of thorax sequela",
   "SettlementDate": "2019-07-28",
   "EstimatedFlag": "L",
   "EstimatedSvFlag": "O",
