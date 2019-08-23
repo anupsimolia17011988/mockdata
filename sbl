@@ -1,4 +1,4 @@
-{
+[{
   "ReturnMessage": "successful",
   "ExternalCustomerNumber": "04-275-8225",
   "CustomerConsentKey": "2018-11-21 02:27:14",
@@ -8,24 +8,24 @@
   "EstimatedFlag": "L",
   "EstimatedSvFlag": "O",
   "DecisionSvText": "Yukon XL 2500",
-  "Category": {
+  "Category":[{
     "CategoryName": "Crossing",
     "SvalbardAmount": "0.03",
     "GrunnlagAmount": "2.22"
   },
-  "Category": {
+  {
     "CategoryName": "Crossing1",
     "SvalbardAmount": "1.03",
     "GrunnlagAmount": "3.22"
   },
-  "Category": {
+  {
     "CategoryName": "Crossing2",
     "SvalbardAmount": "2.03",
     "GrunnlagAmount": "4.22"
   },
-  "Category": {
+  {
     "CategoryName": "Crossing3",
     "SvalbardAmount": "3.03",
     "GrunnlagAmount": "5.22"
-  }
+  }]
 }]
