@@ -5,7 +5,7 @@
   "TaxYear": 2002,
   "DecisionShText": "12223",
   "SettlementDate": "2019-07-28",
-  "EstimatedFlag": "L",
+  "EstimatedFlag": "",
   "EstimatedSvFlag": "O",
   "DecisionSvText": "Yukon XL 2500",
   "Category":[{
