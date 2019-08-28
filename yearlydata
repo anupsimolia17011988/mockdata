@@ -1,0 +1,4969 @@
+{
+  "ReturnMessage": "Success",
+  "ExternalCustomerNumber": 6797204377,
+  "CustomerConsentKey": "2019-05-01 20:52:47",
+  "TaxYear": 1986,
+  "DecisionShText": "20080 Banding Trail",
+  "SettlementDate": "2019-03-15",
+  "EstimatedFlag": "M",
+  "EstimatedSvFlag": "M",
+  "DecisionSvText": "Pixoboo",
+  "Category": [
+    {
+      "CategoryName": "Lanolin",
+      "TaxBaseType": [
+        {
+          "Indicator": "F",
+          "IncomeAmountSum": 659208.96
+        },
+        {
+          "Indicator": "M",
+          "IncomeAmountSum": 407058.22
+        }
+      ],
+      "IncomeType": [
+        {
+          "IncomeTypeName": "Cape cobra",
+          "TaxBaseTypeIndicator": "F",
+          "IncomeTypeAmount": 406171.91,
+          "IncomeTypeDetails": [
+            {
+              "IncomeTypeDetailsId": "CZ",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Casper Willerstone",
+                  "Element": [
+                    {
+                      "ElementName": "Celsion Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 966096
+                    },
+                    {
+                      "ElementName": "Vanguard Total International Stock ETF",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 841400
+                    },
+                    {
+                      "ElementName": "Shinhan Financial Group Co Ltd",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 245612
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Tracy Korneluk",
+                  "Element": [
+                    {
+                      "ElementName": "TSR, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 407195
+                    },
+                    {
+                      "ElementName": "First Guaranty Bancshares, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 869992
+                    },
+                    {
+                      "ElementName": "Fairmount Santrol Holdings Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 889453
+                    },
+                    {
+                      "ElementName": "Boston Private Financial Holdings, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 893206
+                    },
+                    {
+                      "ElementName": "GRAVITY Co., Ltd.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 298908
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "PH",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Gabi Goulbourne",
+                  "Element": [
+                    {
+                      "ElementName": "China Jo-Jo Drugstores, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 522528
+                    },
+                    {
+                      "ElementName": "Universal Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 331485
+                    },
+                    {
+                      "ElementName": "Repros Therapeutics Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 65457
+                    },
+                    {
+                      "ElementName": "Cooper-Standard Holdings Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 265840
+                    },
+                    {
+                      "ElementName": "Parsley Energy, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 757173
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Merrill Hammarberg",
+                  "Element": [
+                    {
+                      "ElementName": "Autohome Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 351614
+                    },
+                    {
+                      "ElementName": "Arc Logistic Partners LP",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 767580
+                    },
+                    {
+                      "ElementName": "CounterPath Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 656309
+                    },
+                    {
+                      "ElementName": "Diageo plc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 294331
+                    },
+                    {
+                      "ElementName": "Kura Oncology, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 201671
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Shepard Odams",
+                  "Element": [
+                    {
+                      "ElementName": "Royal Dutch Shell PLC",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 139288
+                    },
+                    {
+                      "ElementName": "Neurocrine Biosciences, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 471430
+                    },
+                    {
+                      "ElementName": "Legg Mason BW Global Income Opportunities Fund Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 995476
+                    },
+                    {
+                      "ElementName": "J P Morgan Chase & Co",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 63549
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Hermon Ipsley",
+                  "Element": [
+                    {
+                      "ElementName": "VSE Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 924345
+                    },
+                    {
+                      "ElementName": "Dime Community Bancshares, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 195803
+                    },
+                    {
+                      "ElementName": "Legg Mason Global Infrastructure ETF",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 396025
+                    },
+                    {
+                      "ElementName": "America Movil, S.A.B. de C.V.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 166882
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "BR",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Donall Snawdon",
+                  "Element": [
+                    {
+                      "ElementName": "Burlington Stores, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 227677
+                    },
+                    {
+                      "ElementName": "CoBiz Financial Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 796332
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "King Kinnard",
+                  "Element": [
+                    {
+                      "ElementName": "Brasilagro Cia Brasileira De Propriedades Agricolas",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 192667
+                    },
+                    {
+                      "ElementName": "PowerShares S&P SmallCap Industrials Portfolio",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 654939
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Keen Sutherel",
+                  "Element": [
+                    {
+                      "ElementName": "Sykes Enterprises, Incorporated",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 263120
+                    },
+                    {
+                      "ElementName": "Taitron Components Incorporated",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 565315
+                    },
+                    {
+                      "ElementName": "Oil-Dri Corporation Of America",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 128174
+                    },
+                    {
+                      "ElementName": "MuleSoft, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 632327
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Crin Ronchi",
+                  "Element": [
+                    {
+                      "ElementName": "The Meet Group, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 450362
+                    },
+                    {
+                      "ElementName": "Agenus Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 963100
+                    },
+                    {
+                      "ElementName": "Colony NorthStar, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 583457
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Dennison Cassy",
+                  "Element": [
+                    {
+                      "ElementName": "Westpac Banking Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 983381
+                    },
+                    {
+                      "ElementName": "Juniper Networks, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 785050
+                    },
+                    {
+                      "ElementName": "Wabco Holdings Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 161429
+                    },
+                    {
+                      "ElementName": "Citizens Community Bancorp, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 584565
+                    },
+                    {
+                      "ElementName": "Interpace Diagnostics Group, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 76769
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "RU",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Elke Clelle",
+                  "Element": [
+                    {
+                      "ElementName": "Warrior Met Coal, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 259758
+                    },
+                    {
+                      "ElementName": "Navistar International Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 472680
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Alistair Yong",
+                  "Element": [
+                    {
+                      "ElementName": "Boyd Gaming Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 292618
+                    },
+                    {
+                      "ElementName": "Highland Funds I",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 173714
+                    },
+                    {
+                      "ElementName": "RF Industries, Ltd.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 285340
+                    },
+                    {
+                      "ElementName": "Petroleo Brasileiro S.A.- Petrobras",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 12741
+                    },
+                    {
+                      "ElementName": "Bristow Group Inc",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 824560
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IncomeTypeName": "Wallaby, river",
+          "TaxBaseTypeIndicator": "M",
+          "IncomeTypeAmount": 68248.28,
+          "IncomeTypeDetails": [
+            {
+              "IncomeTypeDetailsId": "TH",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Patrizius Simukov",
+                  "Element": [
+                    {
+                      "ElementName": "J P Morgan Chase & Co",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 852922
+                    },
+                    {
+                      "ElementName": "Ingersoll-Rand plc (Ireland)",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 489151
+                    },
+                    {
+                      "ElementName": "Zoe's Kitchen, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 812522
+                    },
+                    {
+                      "ElementName": "Buckeye Partners L.P.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 28254
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Marta Cutten",
+                  "Element": [
+                    {
+                      "ElementName": "ING Group, N.V.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 133664
+                    },
+                    {
+                      "ElementName": "Tocagen Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 940987
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Zea Moles",
+                  "Element": [
+                    {
+                      "ElementName": "Pro-Dex, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 891456
+                    },
+                    {
+                      "ElementName": "Kilroy Realty Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 755952
+                    },
+                    {
+                      "ElementName": "HTG Molecular Diagnostics, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 253937
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Lorna Saltern",
+                  "Element": [
+                    {
+                      "ElementName": "Soleno Therapeutics, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 522061
+                    },
+                    {
+                      "ElementName": "Public Storage",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 568357
+                    },
+                    {
+                      "ElementName": "TravelCenters of America LLC",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 18271
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "US",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "See Kupec",
+                  "Element": [
+                    {
+                      "ElementName": "Ameren Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 550076
+                    },
+                    {
+                      "ElementName": "GCP Applied Technologies Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 285295
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Parry Camilleri",
+                  "Element": [
+                    {
+                      "ElementName": "Canterbury Park Holding Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 702010
+                    },
+                    {
+                      "ElementName": "Roadrunner Transportation Systems, Inc",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 663774
+                    },
+                    {
+                      "ElementName": "Columbia Sportswear Company",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 177940
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Craggie Dumbare",
+                  "Element": [
+                    {
+                      "ElementName": "Qualys, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 763415
+                    },
+                    {
+                      "ElementName": "Citigroup Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 273631
+                    },
+                    {
+                      "ElementName": "Cartesian, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 698342
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IncomeTypeName": "Hoopoe, eurasian",
+          "TaxBaseTypeIndicator": "M",
+          "IncomeTypeAmount": 989213.48,
+          "IncomeTypeDetails": [
+            {
+              "IncomeTypeDetailsId": "RS",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Karlen Greenset",
+                  "Element": [
+                    {
+                      "ElementName": "Sears Hometown and Outlet Stores, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 715963
+                    },
+                    {
+                      "ElementName": "Global X SuperDividend REIT ETF",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 869967
+                    },
+                    {
+                      "ElementName": "VictoryShares US Small Cap High Div Volatility Wtd ETF",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 745715
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Sargent Crellim",
+                  "Element": [
+                    {
+                      "ElementName": "Allstate Corporation (The)",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 727378
+                    },
+                    {
+                      "ElementName": "Parke Bancorp, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 921515
+                    },
+                    {
+                      "ElementName": "Cosan Limited",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 808974
+                    },
+                    {
+                      "ElementName": "Lifetime Brands, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 188184
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "CN",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Angelica Pooley",
+                  "Element": [
+                    {
+                      "ElementName": "China Online Education Group",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 738422
+                    },
+                    {
+                      "ElementName": "AmTrust Financial Services, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 777841
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Paola Tukesby",
+                  "Element": [
+                    {
+                      "ElementName": "First Trust NASDAQ Global Auto Index Fund",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 110419
+                    },
+                    {
+                      "ElementName": "O2Micro International Limited",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 513232
+                    },
+                    {
+                      "ElementName": "Myers Industries, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 868786
+                    },
+                    {
+                      "ElementName": "First Trust/Aberdeen Emerging Opportunity Fund",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 814667
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Brockie Smyth",
+                  "Element": [
+                    {
+                      "ElementName": "NI Holdings, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 445086
+                    },
+                    {
+                      "ElementName": "Wintrust Financial Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 961086
+                    },
+                    {
+                      "ElementName": "Realty Income Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 229394
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "TH",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Lyn MacTeague",
+                  "Element": [
+                    {
+                      "ElementName": "Genetic Technologies Ltd",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 668507
+                    },
+                    {
+                      "ElementName": "Torchmark Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 540776
+                    },
+                    {
+                      "ElementName": "Voya Emerging Markets High Income Dividend Equity Fund",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 568745
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Elsinore MacCoughan",
+                  "Element": [
+                    {
+                      "ElementName": "Nomad Foods Limited",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 10348
+                    },
+                    {
+                      "ElementName": "Sterling Construction Company Inc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 349210
+                    },
+                    {
+                      "ElementName": "Blackrock MuniYield Quality Fund, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 162497
+                    },
+                    {
+                      "ElementName": "Camtek Ltd.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 995339
+                    },
+                    {
+                      "ElementName": "Clifton Bancorp Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 717288
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "RU",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Skipp Crooks",
+                  "Element": [
+                    {
+                      "ElementName": "Selective Insurance Group, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 804798
+                    },
+                    {
+                      "ElementName": "CAS Medical Systems, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 606247
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Michel Clearley",
+                  "Element": [
+                    {
+                      "ElementName": "Wells Fargo & Company",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 924131
+                    },
+                    {
+                      "ElementName": "CDI Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 678077
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Cristal Innerstone",
+                  "Element": [
+                    {
+                      "ElementName": "Penske Automotive Group, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 925045
+                    },
+                    {
+                      "ElementName": "ENDRA Life Sciences Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 382234
+                    },
+                    {
+                      "ElementName": "NutriSystem Inc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 73713
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Sib Mowen",
+                  "Element": [
+                    {
+                      "ElementName": "Western Asset Managed Municipals Fund, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 766810
+                    },
+                    {
+                      "ElementName": "SLM Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 43981
+                    },
+                    {
+                      "ElementName": "Avadel Pharmaceuticals plc",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 526270
+                    },
+                    {
+                      "ElementName": "Sunstone Hotel Investors, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 886273
+                    },
+                    {
+                      "ElementName": "Baldwin & Lyons, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 341685
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IncomeTypeName": "Catfish, blue",
+          "TaxBaseTypeIndicator": "M",
+          "IncomeTypeAmount": 732433.14,
+          "IncomeTypeDetails": [
+            {
+              "IncomeTypeDetailsId": "ID",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Ashien Badam",
+                  "Element": [
+                    {
+                      "ElementName": "Arbor Realty Trust",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 285346
+                    },
+                    {
+                      "ElementName": "Advantage Oil & Gas Ltd",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 52236
+                    },
+                    {
+                      "ElementName": "ASML Holding N.V.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 665799
+                    },
+                    {
+                      "ElementName": "Colony NorthStar, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 496710
+                    },
+                    {
+                      "ElementName": "Cellect Biotechnology Ltd.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 168596
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Jenda Drowsfield",
+                  "Element": [
+                    {
+                      "ElementName": "Giga-tronics Incorporated",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 125838
+                    },
+                    {
+                      "ElementName": "Autobytel Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 600264
+                    },
+                    {
+                      "ElementName": "National Health Investors, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 268102
+                    },
+                    {
+                      "ElementName": "Cempra, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 218041
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Frasco Okill",
+                  "Element": [
+                    {
+                      "ElementName": "Kohl's Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 372990
+                    },
+                    {
+                      "ElementName": "Big 5 Sporting Goods Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 987209
+                    },
+                    {
+                      "ElementName": "Enterprise Financial Services Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 181801
+                    },
+                    {
+                      "ElementName": "Air Transport Services Group, Inc",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 997101
+                    },
+                    {
+                      "ElementName": "Obalon Therapeutics, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 649850
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Fulton Oxtaby",
+                  "Element": [
+                    {
+                      "ElementName": "TEGNA Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 242625
+                    },
+                    {
+                      "ElementName": "NL Industries, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 370239
+                    },
+                    {
+                      "ElementName": "Legg Mason, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 675448
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Cassondra Vogl",
+                  "Element": [
+                    {
+                      "ElementName": "Chembio Diagnostics, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 46049
+                    },
+                    {
+                      "ElementName": "Buckle, Inc. (The)",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 499901
+                    },
+                    {
+                      "ElementName": "Alliance MMA, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 964317
+                    },
+                    {
+                      "ElementName": "Enzo Biochem, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 634700
+                    },
+                    {
+                      "ElementName": "Ducommun Incorporated",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 74887
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "RU",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Ebonee Steynor",
+                  "Element": [
+                    {
+                      "ElementName": "Just Energy Group, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 580202
+                    },
+                    {
+                      "ElementName": "Columbia Property Trust, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 178834
+                    },
+                    {
+                      "ElementName": "Sunworks, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 605578
+                    },
+                    {
+                      "ElementName": "AirMedia Group Inc",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 419416
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Debor Edgington",
+                  "Element": [
+                    {
+                      "ElementName": "Merus N.V.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 295673
+                    },
+                    {
+                      "ElementName": "ZIOPHARM Oncology Inc",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 328375
+                    },
+                    {
+                      "ElementName": "Hudson Technologies, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 106554
+                    },
+                    {
+                      "ElementName": "Capital One Financial Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 79378
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Aldo Yushin",
+                  "Element": [
+                    {
+                      "ElementName": "Gilead Sciences, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 908479
+                    },
+                    {
+                      "ElementName": "Brookdale Senior Living Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 143468
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CategoryName": "Childrens Mucinex Multi-Symptom Cold",
+      "TaxBaseType": [
+        {
+          "Indicator": "M",
+          "IncomeAmountSum": 220827.05
+        },
+        {
+          "Indicator": "M",
+          "IncomeAmountSum": 839578.75
+        }
+      ],
+      "IncomeType": [
+        {
+          "IncomeTypeName": "Southern lapwing",
+          "TaxBaseTypeIndicator": "M",
+          "IncomeTypeAmount": 365269.48,
+          "IncomeTypeDetails": [
+            {
+              "IncomeTypeDetailsId": "RU",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Bernadene Arent",
+                  "Element": [
+                    {
+                      "ElementName": "Blackrock MuniHoldings New Jersey Insured Fund, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 205625
+                    },
+                    {
+                      "ElementName": "Fortuna Silver Mines Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 365419
+                    },
+                    {
+                      "ElementName": "Ominto, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 773777
+                    },
+                    {
+                      "ElementName": "B. Riley Financial, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 904391
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Elaina Gawler",
+                  "Element": [
+                    {
+                      "ElementName": "Apartment Investment and Management Company",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 176538
+                    },
+                    {
+                      "ElementName": "Global X Robotics & Artificial Intelligence ETF",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 344464
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Daniel Kinze",
+                  "Element": [
+                    {
+                      "ElementName": "Nuveen Insured California Select Tax-Free Income Portfolio",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 967966
+                    },
+                    {
+                      "ElementName": "Aegon NV",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 822956
+                    },
+                    {
+                      "ElementName": "General American Investors, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 983426
+                    },
+                    {
+                      "ElementName": "Associated Banc-Corp",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 220004
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Ole Behr",
+                  "Element": [
+                    {
+                      "ElementName": "Comerica Incorporated",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 821353
+                    },
+                    {
+                      "ElementName": "Intuitive Surgical, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 907253
+                    },
+                    {
+                      "ElementName": "Wells Fargo Global Dividend Opportunity Fund",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 780313
+                    },
+                    {
+                      "ElementName": "Emclaire Financial Corp",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 682224
+                    },
+                    {
+                      "ElementName": "Solaris Oilfield Infrastructure, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 884608
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "PT",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Annice Sander",
+                  "Element": [
+                    {
+                      "ElementName": "Nortel Inversora SA",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 896678
+                    },
+                    {
+                      "ElementName": "Core Laboratories N.V.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 824780
+                    },
+                    {
+                      "ElementName": "Aurinia Pharmaceuticals Inc",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 233942
+                    },
+                    {
+                      "ElementName": "PNM Resources, Inc. (Holding Co.)",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 157190
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Ceciley Simione",
+                  "Element": [
+                    {
+                      "ElementName": "Lattice Semiconductor Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 727016
+                    },
+                    {
+                      "ElementName": "Antero Midstream GP LP",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 27287
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IncomeTypeName": "Indian giant squirrel",
+          "TaxBaseTypeIndicator": "M",
+          "IncomeTypeAmount": 388603.07,
+          "IncomeTypeDetails": [
+            {
+              "IncomeTypeDetailsId": "PL",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Lindy Commings",
+                  "Element": [
+                    {
+                      "ElementName": "Alliance World Dollar Government Fund II",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 873663
+                    },
+                    {
+                      "ElementName": "iShares S&P/Citigroup 1-3 Year International Treasury Bond Fun",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 132828
+                    },
+                    {
+                      "ElementName": "Cohu, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 914766
+                    },
+                    {
+                      "ElementName": "Vitamin Shoppe, Inc",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 254538
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Blair Strettle",
+                  "Element": [
+                    {
+                      "ElementName": "Morgan Stanley",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 899581
+                    },
+                    {
+                      "ElementName": "Lehman ABS Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 562367
+                    },
+                    {
+                      "ElementName": "3D Systems Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 623939
+                    },
+                    {
+                      "ElementName": "Vericel Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 427718
+                    },
+                    {
+                      "ElementName": "Calamos Global Total Return Fund",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 77372
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Rriocard Beachem",
+                  "Element": [
+                    {
+                      "ElementName": "SPDR Dorsey Wright Fixed Income Allocation ETF",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 955670
+                    },
+                    {
+                      "ElementName": "Akorn, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 702367
+                    },
+                    {
+                      "ElementName": "Silicon Laboratories, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 161983
+                    },
+                    {
+                      "ElementName": "SandRidge Permian Trust",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 302246
+                    },
+                    {
+                      "ElementName": "Crescent Point Energy Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 80705
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "UA",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Laurence Bunney",
+                  "Element": [
+                    {
+                      "ElementName": "WCF Bancorp, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 105109
+                    },
+                    {
+                      "ElementName": "First Trust Intermediate Duration Preferred & Income Fund",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 397421
+                    },
+                    {
+                      "ElementName": "First Trust CEF Income Opportunity ETF",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 681610
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Crista Pooley",
+                  "Element": [
+                    {
+                      "ElementName": "Continental Resources, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 849432
+                    },
+                    {
+                      "ElementName": "Check-Cap Ltd.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 37247
+                    },
+                    {
+                      "ElementName": "500.com Limited",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 391493
+                    },
+                    {
+                      "ElementName": "Laboratory Corporation of America Holdings",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 101833
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Zacharia Duff",
+                  "Element": [
+                    {
+                      "ElementName": "Ultrapar Participacoes S.A.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 791526
+                    },
+                    {
+                      "ElementName": "Great Lakes Dredge & Dock Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 827701
+                    },
+                    {
+                      "ElementName": "Sierra Wireless, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 354425
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Kippar Bramwell",
+                  "Element": [
+                    {
+                      "ElementName": "Blackrock MuniYield Quality Fund II, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 381321
+                    },
+                    {
+                      "ElementName": "SAP SE",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 489225
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CategoryName": "Norvasc",
+      "TaxBaseType": [
+        {
+          "Indicator": "F",
+          "IncomeAmountSum": 481916.69
+        },
+        {
+          "Indicator": "M",
+          "IncomeAmountSum": 219011.64
+        }
+      ],
+      "IncomeType": [
+        {
+          "IncomeTypeName": "Brazilian otter",
+          "TaxBaseTypeIndicator": "F",
+          "IncomeTypeAmount": 985681.13,
+          "IncomeTypeDetails": [
+            {
+              "IncomeTypeDetailsId": "CL",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Deirdre Goldthorpe",
+                  "Element": [
+                    {
+                      "ElementName": "ShoreTel, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 879101
+                    },
+                    {
+                      "ElementName": "Diana Shipping inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 59736
+                    },
+                    {
+                      "ElementName": "NexPoint Residential Trust, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 77094
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Tanhya Curry",
+                  "Element": [
+                    {
+                      "ElementName": "American Tower Corporation (REIT)",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 641694
+                    },
+                    {
+                      "ElementName": "Aspen Insurance Holdings Limited",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 392130
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "PT",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Shara Westman",
+                  "Element": [
+                    {
+                      "ElementName": "Home Depot, Inc. (The)",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 268408
+                    },
+                    {
+                      "ElementName": "Ames National Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 89630
+                    },
+                    {
+                      "ElementName": "MediciNova, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 115492
+                    },
+                    {
+                      "ElementName": "Westwood Holdings Group Inc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 624157
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Celestine Sweatman",
+                  "Element": [
+                    {
+                      "ElementName": "First Trust Developed Markets Ex-US AlphaDEX Fund",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 303733
+                    },
+                    {
+                      "ElementName": "PowerShares DWA Consumer Cyclicals Momentum Portfolio",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 385503
+                    },
+                    {
+                      "ElementName": "Valero Energy Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 289659
+                    },
+                    {
+                      "ElementName": "Blue Bird Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 314351
+                    },
+                    {
+                      "ElementName": "Gladstone Capital Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 445747
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Obie Luckhurst",
+                  "Element": [
+                    {
+                      "ElementName": "Ingles Markets, Incorporated",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 757930
+                    },
+                    {
+                      "ElementName": "Staffing 360 Solutions, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 86472
+                    },
+                    {
+                      "ElementName": "Seneca Foods Corp.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 681152
+                    },
+                    {
+                      "ElementName": "Power Integrations, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 385829
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Garret Spiteri",
+                  "Element": [
+                    {
+                      "ElementName": "People's Utah Bancorp",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 21607
+                    },
+                    {
+                      "ElementName": "Masco Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 668172
+                    },
+                    {
+                      "ElementName": "First Trust High Income Long Short Fund",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 992490
+                    },
+                    {
+                      "ElementName": "Apollo Global Management, LLC",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 64005
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "PY",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Titus Gueny",
+                  "Element": [
+                    {
+                      "ElementName": "Sunworks, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 175948
+                    },
+                    {
+                      "ElementName": "Casella Waste Systems, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 305535
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Welby Bentke",
+                  "Element": [
+                    {
+                      "ElementName": "VelocityShares VIX Medium-Term ETN",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 988021
+                    },
+                    {
+                      "ElementName": "BlackRock Capital Investment Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 290493
+                    },
+                    {
+                      "ElementName": "Mechel PAO",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 268916
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "CN",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Janice Rubinov",
+                  "Element": [
+                    {
+                      "ElementName": "FIRST REPUBLIC BANK",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 153572
+                    },
+                    {
+                      "ElementName": "EMCORE Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 711405
+                    },
+                    {
+                      "ElementName": "Chesapeake Energy Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 519396
+                    },
+                    {
+                      "ElementName": "Eaton Vance Risk-Managed Diversified Equity Income Fund",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 706807
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Rolfe Pollak",
+                  "Element": [
+                    {
+                      "ElementName": "Pointer Telocation Ltd.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 145998
+                    },
+                    {
+                      "ElementName": "Hecla Mining Company",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 605196
+                    },
+                    {
+                      "ElementName": "BB&T Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 108245
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Anstice Arson",
+                  "Element": [
+                    {
+                      "ElementName": "Albany Molecular Research, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 181654
+                    },
+                    {
+                      "ElementName": "Scholastic Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 464174
+                    },
+                    {
+                      "ElementName": "Allegion plc",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 174456
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IncomeTypeName": "Vine snake (unidentified)",
+          "TaxBaseTypeIndicator": "M",
+          "IncomeTypeAmount": 803973.43,
+          "IncomeTypeDetails": [
+            {
+              "IncomeTypeDetailsId": "GR",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Augusta Duns",
+                  "Element": [
+                    {
+                      "ElementName": "Eli Lilly and Company",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 980999
+                    },
+                    {
+                      "ElementName": "KB Home",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 678637
+                    },
+                    {
+                      "ElementName": "Zayo Group Holdings, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 688137
+                    },
+                    {
+                      "ElementName": "QTS Realty Trust, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 535650
+                    },
+                    {
+                      "ElementName": "SandRidge Mississippian Trust II",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 913676
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Lind Oubridge",
+                  "Element": [
+                    {
+                      "ElementName": "Quest Diagnostics Incorporated",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 947783
+                    },
+                    {
+                      "ElementName": "Sensus Healthcare, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 929736
+                    },
+                    {
+                      "ElementName": "USANA Health Sciences, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 22057
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Birdie Tenwick",
+                  "Element": [
+                    {
+                      "ElementName": "Koss Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 735722
+                    },
+                    {
+                      "ElementName": "Silvercrest Asset Management Group Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 636620
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Tudor Janecek",
+                  "Element": [
+                    {
+                      "ElementName": "Allegiant Travel Company",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 52436
+                    },
+                    {
+                      "ElementName": "Yamana Gold Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 735284
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Stan Bosley",
+                  "Element": [
+                    {
+                      "ElementName": "Templeton Emerging Markets Income Fund, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 710463
+                    },
+                    {
+                      "ElementName": "Maiden Holdings, Ltd.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 374354
+                    },
+                    {
+                      "ElementName": "Allstate Corporation (The)",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 45295
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "PH",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Marie-ann Dani",
+                  "Element": [
+                    {
+                      "ElementName": "Coca-Cola Bottling Co. Consolidated",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 374910
+                    },
+                    {
+                      "ElementName": "VIVUS, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 985182
+                    },
+                    {
+                      "ElementName": "NASDAQ TEST STOCK",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 959252
+                    },
+                    {
+                      "ElementName": "Acorda Therapeutics, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 96799
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Alvina McIlwrath",
+                  "Element": [
+                    {
+                      "ElementName": "DWS High Income Opportunities Fund, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 796791
+                    },
+                    {
+                      "ElementName": "Assembly Biosciences, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 640822
+                    },
+                    {
+                      "ElementName": "VelocityShares VIX Medium-Term ETN",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 170280
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "CN",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Berti Lacoste",
+                  "Element": [
+                    {
+                      "ElementName": "North American Energy Partners, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 415301
+                    },
+                    {
+                      "ElementName": "Digital Realty Trust, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 318652
+                    },
+                    {
+                      "ElementName": "Silvercrest Asset Management Group Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 829991
+                    },
+                    {
+                      "ElementName": "Principal Millennials Index ETF",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 15676
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Ree Korfmann",
+                  "Element": [
+                    {
+                      "ElementName": "Horizon Pharma plc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 60723
+                    },
+                    {
+                      "ElementName": "First Trust Nasdaq Food & Beverage ETF",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 937817
+                    },
+                    {
+                      "ElementName": "CIRCOR International, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 259175
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "AR",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Tiffani Huddy",
+                  "Element": [
+                    {
+                      "ElementName": "Citi Trends, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 493134
+                    },
+                    {
+                      "ElementName": "Validus Holdings, Ltd.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 382574
+                    },
+                    {
+                      "ElementName": "First Trust Emerging Markets Local Currency Bond ETF",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 263577
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Percival Wincott",
+                  "Element": [
+                    {
+                      "ElementName": "LM Funding America, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 934535
+                    },
+                    {
+                      "ElementName": "Legg Mason, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 707023
+                    },
+                    {
+                      "ElementName": "Annaly Capital Management Inc",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 717131
+                    },
+                    {
+                      "ElementName": "United Parcel Service, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 883759
+                    },
+                    {
+                      "ElementName": "Scorpio Tankers Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 142156
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Zonnya Rutgers",
+                  "Element": [
+                    {
+                      "ElementName": "Applied DNA Sciences Inc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 434991
+                    },
+                    {
+                      "ElementName": "Duff & Phelps Utility & Corporate Bond Trust, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 700419
+                    },
+                    {
+                      "ElementName": "Fidus Investment Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 701463
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Padget Allen",
+                  "Element": [
+                    {
+                      "ElementName": "Eclipse Resources Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 205442
+                    },
+                    {
+                      "ElementName": "VelocityShares 3x Inverse Silver ETN",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 949847
+                    },
+                    {
+                      "ElementName": "Navistar International Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 251347
+                    },
+                    {
+                      "ElementName": "MB Financial Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 838533
+                    },
+                    {
+                      "ElementName": "MMA Capital Management, LLC",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 837546
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "PH",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Erwin MacSkeagan",
+                  "Element": [
+                    {
+                      "ElementName": "Arbor Realty Trust",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 906495
+                    },
+                    {
+                      "ElementName": "Hortonworks, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 205120
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Florette Quakley",
+                  "Element": [
+                    {
+                      "ElementName": "Eaton Vance Municipal Income Trust",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 597067
+                    },
+                    {
+                      "ElementName": "Kennedy-Wilson Holdings Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 339050
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Rikki Prebble",
+                  "Element": [
+                    {
+                      "ElementName": "MFA Financial, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 175328
+                    },
+                    {
+                      "ElementName": "Two Harbors Investments Corp",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 399006
+                    },
+                    {
+                      "ElementName": "Invesco High Income Trust II",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 835007
+                    },
+                    {
+                      "ElementName": "LRAD Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 363836
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Wanda Fasler",
+                  "Element": [
+                    {
+                      "ElementName": "FORM Holdings Corp.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 278453
+                    },
+                    {
+                      "ElementName": "Genie Energy Ltd.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 633079
+                    },
+                    {
+                      "ElementName": "Tremor Video, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 900231
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Elvyn Bradneck",
+                  "Element": [
+                    {
+                      "ElementName": "Mylan N.V.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 113409
+                    },
+                    {
+                      "ElementName": "Hyatt Hotels Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 997159
+                    },
+                    {
+                      "ElementName": "Chanticleer Holdings, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 466420
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IncomeTypeName": "Pocket gopher (unidentified)",
+          "TaxBaseTypeIndicator": "F",
+          "IncomeTypeAmount": 820316.59,
+          "IncomeTypeDetails": [
+            {
+              "IncomeTypeDetailsId": "CZ",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Klaus Moubray",
+                  "Element": [
+                    {
+                      "ElementName": "PNM Resources, Inc. (Holding Co.)",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 661353
+                    },
+                    {
+                      "ElementName": "Dupont Fabros Technology, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 613951
+                    },
+                    {
+                      "ElementName": "Source Capital, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 197168
+                    },
+                    {
+                      "ElementName": "CTI BioPharma Corp.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 352209
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Cloris Tolworthy",
+                  "Element": [
+                    {
+                      "ElementName": "Horizon Bancorp (IN)",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 292095
+                    },
+                    {
+                      "ElementName": "Zion Oil & Gas Inc",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 940688
+                    },
+                    {
+                      "ElementName": "Mitel Networks Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 154888
+                    },
+                    {
+                      "ElementName": "Groupon, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 647285
+                    },
+                    {
+                      "ElementName": "New York Community Bancorp, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 328662
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Bernard Dimmne",
+                  "Element": [
+                    {
+                      "ElementName": "Vantage Energy Acquisition Corp.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 536165
+                    },
+                    {
+                      "ElementName": "Matrix Service Company",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 679729
+                    },
+                    {
+                      "ElementName": "AGCO Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 137518
+                    },
+                    {
+                      "ElementName": "PowerShares DWA Tactical Sector Rotation Portfolio",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 597362
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "CN",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Erminia Jaquemar",
+                  "Element": [
+                    {
+                      "ElementName": "Del Taco Restaurants, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 340415
+                    },
+                    {
+                      "ElementName": "Robert Half International Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 283874
+                    },
+                    {
+                      "ElementName": "Ampco-Pittsburgh Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 910064
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Dalli Faulks",
+                  "Element": [
+                    {
+                      "ElementName": "Akamai Technologies, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 67631
+                    },
+                    {
+                      "ElementName": "Medtronic plc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 986120
+                    },
+                    {
+                      "ElementName": "Merrill Lynch & Co., Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 926215
+                    },
+                    {
+                      "ElementName": "EVINE Live Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 693500
+                    },
+                    {
+                      "ElementName": "Gaming Partners International Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 559221
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Jania Slides",
+                  "Element": [
+                    {
+                      "ElementName": "Aldeyra Therapeutics, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 988316
+                    },
+                    {
+                      "ElementName": "Putnam Municipal Opportunities Trust",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 843866
+                    },
+                    {
+                      "ElementName": "Pampa Energia S.A.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 227764
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Helena Loft",
+                  "Element": [
+                    {
+                      "ElementName": "Porter Bancorp, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 412697
+                    },
+                    {
+                      "ElementName": "New Residential Investment Corp.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 182917
+                    },
+                    {
+                      "ElementName": "First Trust China AlphaDEX Fund",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 346509
+                    },
+                    {
+                      "ElementName": "Eiger BioPharmaceuticals, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 34681
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Nikolia McCudden",
+                  "Element": [
+                    {
+                      "ElementName": "Adient plc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 276541
+                    },
+                    {
+                      "ElementName": "Oasmia Pharmaceutical AB",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 559175
+                    },
+                    {
+                      "ElementName": "Apricus Biosciences, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 160491
+                    },
+                    {
+                      "ElementName": "Omeros Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 953434
+                    },
+                    {
+                      "ElementName": "Editas Medicine, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 773972
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "PL",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Gabbie Kinman",
+                  "Element": [
+                    {
+                      "ElementName": "Embraer-Empresa Brasileira de Aeronautica",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 58046
+                    },
+                    {
+                      "ElementName": "FlexShares STOXX US ESG Impact Index Fund",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 392366
+                    },
+                    {
+                      "ElementName": "OUTFRONT Media Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 55407
+                    },
+                    {
+                      "ElementName": "First Trust NASDAQ ABA Community Bank Index Fund",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 186377
+                    },
+                    {
+                      "ElementName": "Crown Crafts, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 280028
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Harald Virr",
+                  "Element": [
+                    {
+                      "ElementName": "CF Industries Holdings, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 679233
+                    },
+                    {
+                      "ElementName": "BlackRock Municipal Income Trust",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 11415
+                    },
+                    {
+                      "ElementName": "Hennessy Advisors, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 732928
+                    },
+                    {
+                      "ElementName": "Acacia Communications, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 919937
+                    },
+                    {
+                      "ElementName": "Conn's, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 491162
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Corrie Dunstone",
+                  "Element": [
+                    {
+                      "ElementName": "LyondellBasell Industries NV",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 779621
+                    },
+                    {
+                      "ElementName": "Xcel Brands, Inc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 494622
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Vanya Turbat",
+                  "Element": [
+                    {
+                      "ElementName": "Ardagh Group S.A.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 277355
+                    },
+                    {
+                      "ElementName": "Hanmi Financial Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 851212
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Holden Martland",
+                  "Element": [
+                    {
+                      "ElementName": "Mitel Networks Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 215938
+                    },
+                    {
+                      "ElementName": "Peak Resorts, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 850050
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "FR",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Kendall Drinkhall",
+                  "Element": [
+                    {
+                      "ElementName": "Navient Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 193223
+                    },
+                    {
+                      "ElementName": "Kayne Anderson Energy Development Company",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 407832
+                    },
+                    {
+                      "ElementName": "Clean Diesel Technologies, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 937381
+                    },
+                    {
+                      "ElementName": "Auris Medical Holding AG",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 599925
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Guillaume Winsbury",
+                  "Element": [
+                    {
+                      "ElementName": "Qualys, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 310791
+                    },
+                    {
+                      "ElementName": "Vishay Precision Group, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 284958
+                    },
+                    {
+                      "ElementName": "Loews Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 342034
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "SE",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Chaim Bratch",
+                  "Element": [
+                    {
+                      "ElementName": "Grupo Aeroportuario Del Pacifico, S.A. de C.V.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 151719
+                    },
+                    {
+                      "ElementName": "Six Flags Entertainment Corporation New",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 542697
+                    },
+                    {
+                      "ElementName": "Pioneer Municipal High Income Trust",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 63094
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Obed Gallgher",
+                  "Element": [
+                    {
+                      "ElementName": "Orbital ATK, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 218144
+                    },
+                    {
+                      "ElementName": "TopBuild Corp.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 424226
+                    },
+                    {
+                      "ElementName": "Xcel Brands, Inc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 167463
+                    },
+                    {
+                      "ElementName": "Access National Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 338473
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IncomeTypeName": "Japanese macaque",
+          "TaxBaseTypeIndicator": "M",
+          "IncomeTypeAmount": 127061.18,
+          "IncomeTypeDetails": [
+            {
+              "IncomeTypeDetailsId": "CZ",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Seka Atchly",
+                  "Element": [
+                    {
+                      "ElementName": "Virtus Global Multi-Sector Income Fund",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 675382
+                    },
+                    {
+                      "ElementName": "Sanchez Energy Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 958686
+                    },
+                    {
+                      "ElementName": "ADDvantage Technologies Group, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 672932
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Marrilee Durtnel",
+                  "Element": [
+                    {
+                      "ElementName": "Ra Pharmaceuticals, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 534490
+                    },
+                    {
+                      "ElementName": "Sun Communities, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 236283
+                    },
+                    {
+                      "ElementName": "Yext, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 865656
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "SE",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Ashley McGuff",
+                  "Element": [
+                    {
+                      "ElementName": "Independence Holding Company",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 918481
+                    },
+                    {
+                      "ElementName": "Art's-Way Manufacturing Co., Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 376277
+                    },
+                    {
+                      "ElementName": "Saban Capital Acquisition Corp.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 598478
+                    },
+                    {
+                      "ElementName": "Schneider National, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 949016
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Celka Iacobucci",
+                  "Element": [
+                    {
+                      "ElementName": "Champions Oncology, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 533006
+                    },
+                    {
+                      "ElementName": "Lockheed Martin Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 919234
+                    },
+                    {
+                      "ElementName": "Hospitality Properties Trust",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 64418
+                    },
+                    {
+                      "ElementName": "Cohu, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 654437
+                    },
+                    {
+                      "ElementName": "Giga-tronics Incorporated",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 671000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "MN",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Dacie Asbury",
+                  "Element": [
+                    {
+                      "ElementName": "InVivo Therapeutics Holdings Corp.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 645400
+                    },
+                    {
+                      "ElementName": "Grupo Televisa S.A.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 393614
+                    },
+                    {
+                      "ElementName": "PowerShares DWA Energy Momentum Portfolio",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 876201
+                    },
+                    {
+                      "ElementName": "Autohome Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 157250
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Josephina Boliver",
+                  "Element": [
+                    {
+                      "ElementName": "Inotek Pharmaceuticals Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 393654
+                    },
+                    {
+                      "ElementName": "Penn West Petroleum Ltd",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 77978
+                    },
+                    {
+                      "ElementName": "VanEck Vectors Pharmaceutical ETF",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 542326
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Andee Gout",
+                  "Element": [
+                    {
+                      "ElementName": "First Trust",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 376625
+                    },
+                    {
+                      "ElementName": "Legacy Reserves LP",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 445574
+                    },
+                    {
+                      "ElementName": "Pacific Drilling S.A.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 402995
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "CZ",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Gerhardine Perillo",
+                  "Element": [
+                    {
+                      "ElementName": "United Microelectronics Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 505646
+                    },
+                    {
+                      "ElementName": "Kayne Anderson Energy Total Return Fund, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 443890
+                    },
+                    {
+                      "ElementName": "Allied Healthcare Products, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 915337
+                    },
+                    {
+                      "ElementName": "TerraForm Power, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 723662
+                    },
+                    {
+                      "ElementName": "Celsius Holdings, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 383543
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Irv Tutton",
+                  "Element": [
+                    {
+                      "ElementName": "Del Frisco's Restaurant Group, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 689497
+                    },
+                    {
+                      "ElementName": "AudioCodes Ltd.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 519258
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "RU",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Kendra Baradel",
+                  "Element": [
+                    {
+                      "ElementName": "Zhaopin Limited",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 989275
+                    },
+                    {
+                      "ElementName": "Smart Sand, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 538862
+                    },
+                    {
+                      "ElementName": "Nuveen Credit Opportunities 2022 Target Term Fund",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 117001
+                    },
+                    {
+                      "ElementName": "Prudential Public Limited Company",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 581580
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Bridie Lambirth",
+                  "Element": [
+                    {
+                      "ElementName": "United Security Bancshares",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 706381
+                    },
+                    {
+                      "ElementName": "Delta Natural Gas Company, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 134034
+                    },
+                    {
+                      "ElementName": "HSBC Holdings plc",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 104495
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Ricoriki Goede",
+                  "Element": [
+                    {
+                      "ElementName": "Essent Group Ltd.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 61371
+                    },
+                    {
+                      "ElementName": "Berkshire Hathaway Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 739555
+                    },
+                    {
+                      "ElementName": "Ducommun Incorporated",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 208979
+                    },
+                    {
+                      "ElementName": "J P Morgan Chase & Co",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 83881
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Stoddard Chantillon",
+                  "Element": [
+                    {
+                      "ElementName": "Spectrum Brands Holdings, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 213329
+                    },
+                    {
+                      "ElementName": "Blackrock Enhanced Equity Dividend Trust",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 623386
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CategoryName": "PLATANUS OCCIDENTALIS POLLEN",
+      "TaxBaseType": [
+        {
+          "Indicator": "M",
+          "IncomeAmountSum": 831087.06
+        },
+        {
+          "Indicator": "F",
+          "IncomeAmountSum": 532571.49
+        }
+      ],
+      "IncomeType": [
+        {
+          "IncomeTypeName": "European wild cat",
+          "TaxBaseTypeIndicator": "F",
+          "IncomeTypeAmount": 305125.84,
+          "IncomeTypeDetails": [
+            {
+              "IncomeTypeDetailsId": "CN",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Erinn Fridlington",
+                  "Element": [
+                    {
+                      "ElementName": "Eastman Chemical Company",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 921013
+                    },
+                    {
+                      "ElementName": "Evertec, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 103115
+                    },
+                    {
+                      "ElementName": "Navigator Holdings Ltd.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 296291
+                    },
+                    {
+                      "ElementName": "Nuveen New York Municipal Value Fund 2",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 49761
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Almeria Labbe",
+                  "Element": [
+                    {
+                      "ElementName": "Maui Land & Pineapple Company, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 400312
+                    },
+                    {
+                      "ElementName": "News Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 570410
+                    },
+                    {
+                      "ElementName": "Novan, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 314010
+                    },
+                    {
+                      "ElementName": "58.com Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 449801
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "BR",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Clifford Chiplen",
+                  "Element": [
+                    {
+                      "ElementName": "Goldcorp Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 575936
+                    },
+                    {
+                      "ElementName": "Prudential Public Limited Company",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 544594
+                    },
+                    {
+                      "ElementName": "M B T Financial Corp",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 574912
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Meier Stearn",
+                  "Element": [
+                    {
+                      "ElementName": "Air Transport Services Group, Inc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 621503
+                    },
+                    {
+                      "ElementName": "Virtusa Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 233136
+                    },
+                    {
+                      "ElementName": "Aethlon Medical, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 939848
+                    },
+                    {
+                      "ElementName": "BlackRock Long-Term Municipal Advantage Trust",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 836082
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "SA",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Dedra Yelden",
+                  "Element": [
+                    {
+                      "ElementName": "Bridge Bancorp, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 392342
+                    },
+                    {
+                      "ElementName": "PACCAR Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 37373
+                    },
+                    {
+                      "ElementName": "Abraxas Petroleum Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 194635
+                    },
+                    {
+                      "ElementName": "Insight Select Income Fund",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 371890
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Bonni Ashdown",
+                  "Element": [
+                    {
+                      "ElementName": "California Resources Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 737206
+                    },
+                    {
+                      "ElementName": "Preferred Apartment Communities, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 744594
+                    },
+                    {
+                      "ElementName": "Sempra Energy",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 729213
+                    },
+                    {
+                      "ElementName": "Blackrock Corporate High Yield Fund, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 185733
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Maria Angeli",
+                  "Element": [
+                    {
+                      "ElementName": "Sajan, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 11035
+                    },
+                    {
+                      "ElementName": "Nuveen New Jersey Quality Municipal Income Fund",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 630874
+                    },
+                    {
+                      "ElementName": "UBS AG",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 559741
+                    },
+                    {
+                      "ElementName": "Manitowoc Company, Inc. (The)",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 556580
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Lucine Edginton",
+                  "Element": [
+                    {
+                      "ElementName": "Industrial Services of America, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 137487
+                    },
+                    {
+                      "ElementName": "BofI Holding, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 520228
+                    },
+                    {
+                      "ElementName": "Eaton Vance Tax-Advantage Global Dividend Opp",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 651197
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Marika Martensen",
+                  "Element": [
+                    {
+                      "ElementName": "Johnson & Johnson",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 409362
+                    },
+                    {
+                      "ElementName": "Ford Motor Company",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 800311
+                    },
+                    {
+                      "ElementName": "United Fire Group, Inc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 834056
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "FI",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Torr Todari",
+                  "Element": [
+                    {
+                      "ElementName": "Exactech, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 70525
+                    },
+                    {
+                      "ElementName": "Trex Company, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 292570
+                    },
+                    {
+                      "ElementName": "Regions Financial Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 843458
+                    },
+                    {
+                      "ElementName": "Top Image Systems, Ltd.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 538765
+                    },
+                    {
+                      "ElementName": "Cohen & Steers Global Income Builder, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 678149
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Jeanie Largent",
+                  "Element": [
+                    {
+                      "ElementName": "ICF International, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 76517
+                    },
+                    {
+                      "ElementName": "Xunlei Limited",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 787009
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IncomeTypeName": "Pigeon, wood",
+          "TaxBaseTypeIndicator": "M",
+          "IncomeTypeAmount": 881405.53,
+          "IncomeTypeDetails": [
+            {
+              "IncomeTypeDetailsId": "TJ",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Eb Furtado",
+                  "Element": [
+                    {
+                      "ElementName": "Smart Sand, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 22683
+                    },
+                    {
+                      "ElementName": "MasTec, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 996080
+                    },
+                    {
+                      "ElementName": "Prudential Financial, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 42147
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Floris Sackett",
+                  "Element": [
+                    {
+                      "ElementName": "Bank of America Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 40778
+                    },
+                    {
+                      "ElementName": "First US Bancshares, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 561335
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Fredra Lebond",
+                  "Element": [
+                    {
+                      "ElementName": "TiVo Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 711840
+                    },
+                    {
+                      "ElementName": "Albany Molecular Research, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 899705
+                    },
+                    {
+                      "ElementName": "Broadridge Financial Solutions, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 959918
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Luciano Thwaite",
+                  "Element": [
+                    {
+                      "ElementName": "1-800 FLOWERS.COM, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 873992
+                    },
+                    {
+                      "ElementName": "P.A.M. Transportation Services, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 71146
+                    },
+                    {
+                      "ElementName": "Amphenol Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 292332
+                    },
+                    {
+                      "ElementName": "Yulong Eco-Materials Limited",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 779563
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Roobbie Percifer",
+                  "Element": [
+                    {
+                      "ElementName": "ProAssurance Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 34854
+                    },
+                    {
+                      "ElementName": "Ethan Allen Interiors Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 479996
+                    },
+                    {
+                      "ElementName": "Carnival Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 567544
+                    },
+                    {
+                      "ElementName": "Truett-Hurst, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 325336
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "RU",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Bron Yankov",
+                  "Element": [
+                    {
+                      "ElementName": "Western Asset High Income Opportunity Fund, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 26093
+                    },
+                    {
+                      "ElementName": "Moog Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 848204
+                    },
+                    {
+                      "ElementName": "Hibbett Sports, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 975068
+                    },
+                    {
+                      "ElementName": "eHealth, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 718553
+                    },
+                    {
+                      "ElementName": "World Acceptance Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 509411
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Antonietta Bumphries",
+                  "Element": [
+                    {
+                      "ElementName": "Global X SuperDividend REIT ETF",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 245663
+                    },
+                    {
+                      "ElementName": "CSG Systems International, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 36913
+                    },
+                    {
+                      "ElementName": "MainStay DefinedTerm Municipal Opportunities Fund",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 862978
+                    },
+                    {
+                      "ElementName": "MSG Networks Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 544250
+                    },
+                    {
+                      "ElementName": "Lilis Energy, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 363276
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Farrah Denford",
+                  "Element": [
+                    {
+                      "ElementName": "Colonial High Income Municipal Trust",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 155521
+                    },
+                    {
+                      "ElementName": "Assured Guaranty Ltd.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 139140
+                    },
+                    {
+                      "ElementName": "Reliv' International, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 261961
+                    },
+                    {
+                      "ElementName": "Summit Hotel Properties, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 644823
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Marcia Wippermann",
+                  "Element": [
+                    {
+                      "ElementName": "Exponent, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 305834
+                    },
+                    {
+                      "ElementName": "Dominion Energy, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 792020
+                    },
+                    {
+                      "ElementName": "SLM Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 925985
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "ID",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Ulrike Riatt",
+                  "Element": [
+                    {
+                      "ElementName": "Diageo plc",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 25326
+                    },
+                    {
+                      "ElementName": "Allegion plc",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 364730
+                    },
+                    {
+                      "ElementName": "Western Refining Logistics, LP",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 878967
+                    },
+                    {
+                      "ElementName": "BancorpSouth, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 113759
+                    },
+                    {
+                      "ElementName": "LifePoint Health, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 262272
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Auguste Rusted",
+                  "Element": [
+                    {
+                      "ElementName": "Gabelli Global Small and Mid Cap Value Trust (The)",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 65184
+                    },
+                    {
+                      "ElementName": "FirstService Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 614582
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Sabina Shires",
+                  "Element": [
+                    {
+                      "ElementName": "Wells Fargo & Company",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 671094
+                    },
+                    {
+                      "ElementName": "Brookfield Canada Office Properties",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 184225
+                    },
+                    {
+                      "ElementName": "FIRST REPUBLIC BANK",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 559868
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Inge Rugieri",
+                  "Element": [
+                    {
+                      "ElementName": "AquaBounty Technologies, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 974297
+                    },
+                    {
+                      "ElementName": "Entergy Texas Inc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 877383
+                    },
+                    {
+                      "ElementName": "Hudbay Minerals Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 411275
+                    },
+                    {
+                      "ElementName": "Provident Financial Holdings, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 42659
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Yasmeen Glamart",
+                  "Element": [
+                    {
+                      "ElementName": "Moody's Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 667307
+                    },
+                    {
+                      "ElementName": "Bill Barrett Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 580365
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "PH",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Marrissa Pellman",
+                  "Element": [
+                    {
+                      "ElementName": "Newfield Exploration Company",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 263118
+                    },
+                    {
+                      "ElementName": "Lehman ABS Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 39933
+                    },
+                    {
+                      "ElementName": "Medtronic plc",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 423722
+                    },
+                    {
+                      "ElementName": "NextEra Energy, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 273644
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Jonah De Beauchemp",
+                  "Element": [
+                    {
+                      "ElementName": "Winmark Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 84356
+                    },
+                    {
+                      "ElementName": "Advanced Disposal Services, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 198102
+                    },
+                    {
+                      "ElementName": "Enel Chile S.A.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 112898
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Brook Kitchingman",
+                  "Element": [
+                    {
+                      "ElementName": "3M Company",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 649969
+                    },
+                    {
+                      "ElementName": "PowerShares S&P SmallCap Financials Portfolio",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 635816
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Hersch Lidgley",
+                  "Element": [
+                    {
+                      "ElementName": "Soligenix, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 303810
+                    },
+                    {
+                      "ElementName": "Fortune Brands Home & Security, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 835090
+                    },
+                    {
+                      "ElementName": "VOC Energy Trust",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 262509
+                    },
+                    {
+                      "ElementName": "Kingstone Companies, Inc",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 208009
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Cal Finnigan",
+                  "Element": [
+                    {
+                      "ElementName": "Atlantic Coast Financial Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 904355
+                    },
+                    {
+                      "ElementName": "Grupo Aval Acciones y Valores S.A.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 382763
+                    },
+                    {
+                      "ElementName": "TEGNA Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 152782
+                    },
+                    {
+                      "ElementName": "Dril-Quip, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 684865
+                    },
+                    {
+                      "ElementName": "Physicians Realty Trust",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 200240
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IncomeTypeName": "Shelduck, european",
+          "TaxBaseTypeIndicator": "F",
+          "IncomeTypeAmount": 340438.96,
+          "IncomeTypeDetails": [
+            {
+              "IncomeTypeDetailsId": "RU",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Colby Weeds",
+                  "Element": [
+                    {
+                      "ElementName": "ENSCO plc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 237368
+                    },
+                    {
+                      "ElementName": "Colonial Investment Grade Municipal Trust",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 590783
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Josy Scraney",
+                  "Element": [
+                    {
+                      "ElementName": "Take-Two Interactive Software, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 42766
+                    },
+                    {
+                      "ElementName": "Entergy Arkansas, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 733395
+                    },
+                    {
+                      "ElementName": "Ferroglobe PLC",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 551435
+                    },
+                    {
+                      "ElementName": "Capital Product Partners L.P.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 957612
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Neill Davenall",
+                  "Element": [
+                    {
+                      "ElementName": "Liquidity Services, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 983348
+                    },
+                    {
+                      "ElementName": "Merrill Lynch & Co., Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 44415
+                    },
+                    {
+                      "ElementName": "Nortel Inversora SA",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 472482
+                    },
+                    {
+                      "ElementName": "Costamare Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 380781
+                    },
+                    {
+                      "ElementName": "Chiasma, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 884504
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Constance Crilley",
+                  "Element": [
+                    {
+                      "ElementName": "Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 780889
+                    },
+                    {
+                      "ElementName": "Hunter Maritime Acquisition Corp.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 172654
+                    },
+                    {
+                      "ElementName": "Stone Harbor Emerging Markets Income Fund",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 827200
+                    },
+                    {
+                      "ElementName": "Morgan Stanley China A Share Fund Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 431864
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Ki Masters",
+                  "Element": [
+                    {
+                      "ElementName": "Nuveen Missouri Quality Municipal Income Fund",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 692290
+                    },
+                    {
+                      "ElementName": "Modern Media Acquisition Corp.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 48147
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "MX",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Penn Staddom",
+                  "Element": [
+                    {
+                      "ElementName": "Sprouts Farmers Market, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 844883
+                    },
+                    {
+                      "ElementName": "KKR Income Opportunities Fund",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 110045
+                    },
+                    {
+                      "ElementName": "Fonar Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 812776
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Lammond Gwillym",
+                  "Element": [
+                    {
+                      "ElementName": "The Hain Celestial Group, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 491417
+                    },
+                    {
+                      "ElementName": "Cellular Biomedicine Group, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 38223
+                    },
+                    {
+                      "ElementName": "Carrizo Oil & Gas, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 788154
+                    },
+                    {
+                      "ElementName": "CF Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 682333
+                    },
+                    {
+                      "ElementName": "IBERIABANK Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 307204
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IncomeTypeName": "Malachite kingfisher",
+          "TaxBaseTypeIndicator": "M",
+          "IncomeTypeAmount": 887597.65,
+          "IncomeTypeDetails": [
+            {
+              "IncomeTypeDetailsId": "CN",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Waylon Fitzer",
+                  "Element": [
+                    {
+                      "ElementName": "Polaris Industries Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 740397
+                    },
+                    {
+                      "ElementName": "Broadridge Financial Solutions, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 152025
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Jenni Dominik",
+                  "Element": [
+                    {
+                      "ElementName": "PowerShares S&P SmallCap Consumer Discretionary Portfolio",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 422664
+                    },
+                    {
+                      "ElementName": "Lion Biotechnologies, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 334045
+                    },
+                    {
+                      "ElementName": "EastGroup Properties, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 922533
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Donal Lucks",
+                  "Element": [
+                    {
+                      "ElementName": "Yulong Eco-Materials Limited",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 322639
+                    },
+                    {
+                      "ElementName": "Alnylam Pharmaceuticals, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 894731
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Alexi Maplethorpe",
+                  "Element": [
+                    {
+                      "ElementName": "Superior Industries International, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 259282
+                    },
+                    {
+                      "ElementName": "Qwest Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 554951
+                    },
+                    {
+                      "ElementName": "ICF International, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 315106
+                    },
+                    {
+                      "ElementName": "Sigma Labs, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 958573
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "UA",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Bianka Chippendale",
+                  "Element": [
+                    {
+                      "ElementName": "ARI Network Services, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 525899
+                    },
+                    {
+                      "ElementName": "DaVita Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 432727
+                    },
+                    {
+                      "ElementName": "Communications Systems, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 428641
+                    },
+                    {
+                      "ElementName": "Roper Technologies, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 287084
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Erna Digweed",
+                  "Element": [
+                    {
+                      "ElementName": "JMP Group LLC",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 994766
+                    },
+                    {
+                      "ElementName": "Avid Technology, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 887297
+                    },
+                    {
+                      "ElementName": "Blue Bird Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 199001
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CategoryName": "Lupron Depot-PED",
+      "TaxBaseType": [
+        {
+          "Indicator": "M",
+          "IncomeAmountSum": 934272.08
+        },
+        {
+          "Indicator": "F",
+          "IncomeAmountSum": 417979.73
+        }
+      ],
+      "IncomeType": [
+        {
+          "IncomeTypeName": "Gull, herring",
+          "TaxBaseTypeIndicator": "F",
+          "IncomeTypeAmount": 707460.39,
+          "IncomeTypeDetails": [
+            {
+              "IncomeTypeDetailsId": "RU",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Duffy McCarthy",
+                  "Element": [
+                    {
+                      "ElementName": "Melrose Bancorp, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 639179
+                    },
+                    {
+                      "ElementName": "Gores Holdings II, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 562610
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Hamilton MacCarrane",
+                  "Element": [
+                    {
+                      "ElementName": "NextEra Energy, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 232737
+                    },
+                    {
+                      "ElementName": "Mizuho Financial Group, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 755081
+                    },
+                    {
+                      "ElementName": "Freeport-McMoran, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 518146
+                    },
+                    {
+                      "ElementName": "Post Holdings, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 718544
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Atlanta Richmont",
+                  "Element": [
+                    {
+                      "ElementName": "Global X MSCI SuperDividend EAFE ETF",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 335661
+                    },
+                    {
+                      "ElementName": "Olympic Steel, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 173411
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Neila Traise",
+                  "Element": [
+                    {
+                      "ElementName": "Valvoline Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 646253
+                    },
+                    {
+                      "ElementName": "Hartford Financial Services Group, Inc. (The)",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 157934
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "PH",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Grant Matterdace",
+                  "Element": [
+                    {
+                      "ElementName": "Willamette Valley Vineyards, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 172371
+                    },
+                    {
+                      "ElementName": "Sunoco LP",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 941004
+                    },
+                    {
+                      "ElementName": "Ciner Resources LP",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 926797
+                    },
+                    {
+                      "ElementName": "Nuveen New York Municipal Value Fund 2",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 549825
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Giorgio Howgill",
+                  "Element": [
+                    {
+                      "ElementName": "Monotype Imaging Holdings Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 523783
+                    },
+                    {
+                      "ElementName": "Blueprint Medicines Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 914226
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "CN",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Neilla McCourt",
+                  "Element": [
+                    {
+                      "ElementName": "Telecom Italia S.P.A.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 362702
+                    },
+                    {
+                      "ElementName": "Global X NASDAQ China Technology ETF",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 506277
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Friedrich Arguile",
+                  "Element": [
+                    {
+                      "ElementName": "Micronet Enertec Technologies, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 231448
+                    },
+                    {
+                      "ElementName": "TiGenix",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 490089
+                    },
+                    {
+                      "ElementName": "Centrais Electricas Brasileiras S.A.- Eletrobras",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 420157
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "PH",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Ellyn Tabert",
+                  "Element": [
+                    {
+                      "ElementName": "Amphastar Pharmaceuticals, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 651443
+                    },
+                    {
+                      "ElementName": "FLIR Systems, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 764883
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Nada Sainsberry",
+                  "Element": [
+                    {
+                      "ElementName": "Medley Capital Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 255090
+                    },
+                    {
+                      "ElementName": "TransUnion",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 984251
+                    },
+                    {
+                      "ElementName": "Holly Energy Partners, L.P.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 712657
+                    },
+                    {
+                      "ElementName": "Hilltop Holdings Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 386355
+                    },
+                    {
+                      "ElementName": "iFresh Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 772269
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Abbi Townsend",
+                  "Element": [
+                    {
+                      "ElementName": "Atlas Financial Holdings, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 248834
+                    },
+                    {
+                      "ElementName": "America Movil, S.A.B. de C.V.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 499200
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Briana Eminson",
+                  "Element": [
+                    {
+                      "ElementName": "Invesco Trust  for Investment Grade New York Municipal",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 572625
+                    },
+                    {
+                      "ElementName": "Aurinia Pharmaceuticals Inc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 878619
+                    },
+                    {
+                      "ElementName": "The Goodyear Tire & Rubber Company",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 228957
+                    },
+                    {
+                      "ElementName": "AG Mortgage Investment Trust, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 35840
+                    },
+                    {
+                      "ElementName": "TravelCenters of America LLC",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 423872
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Paulita Challoner",
+                  "Element": [
+                    {
+                      "ElementName": "MSCI Inc",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 256658
+                    },
+                    {
+                      "ElementName": "SPDR Dorsey Wright Fixed Income Allocation ETF",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 160344
+                    },
+                    {
+                      "ElementName": "Apple Hospitality REIT, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 53107
+                    },
+                    {
+                      "ElementName": "Viper Energy Partners LP",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 788864
+                    },
+                    {
+                      "ElementName": "SigmaTron International, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 314030
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "SE",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Nelia Oliphand",
+                  "Element": [
+                    {
+                      "ElementName": "Delaware Investments Dividend & Income Fund, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 193241
+                    },
+                    {
+                      "ElementName": "Northern Technologies International Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 911345
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Lyda Janiak",
+                  "Element": [
+                    {
+                      "ElementName": "Primero Mining Corp",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 687198
+                    },
+                    {
+                      "ElementName": "United Rentals, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 114865
+                    },
+                    {
+                      "ElementName": "China Life Insurance Company Limited",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 355268
+                    },
+                    {
+                      "ElementName": "Travelzoo",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 28509
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IncomeTypeName": "Worm snake (unidentified)",
+          "TaxBaseTypeIndicator": "F",
+          "IncomeTypeAmount": 807563.41,
+          "IncomeTypeDetails": [
+            {
+              "IncomeTypeDetailsId": "ID",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Antonia Deeming",
+                  "Element": [
+                    {
+                      "ElementName": "Alpha and Omega Semiconductor Limited",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 830679
+                    },
+                    {
+                      "ElementName": "Peoples Bancorp of North Carolina, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 639571
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Colly Mottershaw",
+                  "Element": [
+                    {
+                      "ElementName": "Glatfelter",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 46584
+                    },
+                    {
+                      "ElementName": "IDEX Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 658809
+                    },
+                    {
+                      "ElementName": "FlexShares STOXX Global ESG Impact Index Fund",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 19405
+                    },
+                    {
+                      "ElementName": "Phillips 66",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 780402
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Rani Lagneaux",
+                  "Element": [
+                    {
+                      "ElementName": "CRISPR Therapeutics AG",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 590640
+                    },
+                    {
+                      "ElementName": "Macquarie Infrastructure Company",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 26664
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "CN",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Sheri Cosson",
+                  "Element": [
+                    {
+                      "ElementName": "Silicon Laboratories, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 369034
+                    },
+                    {
+                      "ElementName": "CyberArk Software Ltd.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 237534
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Desdemona Dayly",
+                  "Element": [
+                    {
+                      "ElementName": "Enphase Energy, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 756456
+                    },
+                    {
+                      "ElementName": "GasLog LP.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 822964
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IncomeTypeName": "Giant armadillo",
+          "TaxBaseTypeIndicator": "M",
+          "IncomeTypeAmount": 623404.06,
+          "IncomeTypeDetails": [
+            {
+              "IncomeTypeDetailsId": "CN",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Kellia Greschke",
+                  "Element": [
+                    {
+                      "ElementName": "Nuveen AMT-Free Municipal Value Fund",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 334345
+                    },
+                    {
+                      "ElementName": "Assured Guaranty Ltd.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 243277
+                    },
+                    {
+                      "ElementName": "R.R. Donnelley & Sons Company",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 970354
+                    },
+                    {
+                      "ElementName": "RH",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 117056
+                    },
+                    {
+                      "ElementName": "MRC Global Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 475309
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Cordi Cartwright",
+                  "Element": [
+                    {
+                      "ElementName": "Cabot Microelectronics Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 836905
+                    },
+                    {
+                      "ElementName": "Sportsman's Warehouse Holdings, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 79678
+                    },
+                    {
+                      "ElementName": "Easterly Acquisition Corp.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 426424
+                    },
+                    {
+                      "ElementName": "First Northwest Bancorp",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 368587
+                    },
+                    {
+                      "ElementName": "Baldwin & Lyons, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 417567
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "ES",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Melodee Plaister",
+                  "Element": [
+                    {
+                      "ElementName": "Eaton Vance Tax-Managed Diversified Equity Income Fund",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 560857
+                    },
+                    {
+                      "ElementName": "OraSure Technologies, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 881492
+                    },
+                    {
+                      "ElementName": "aTyr Pharma, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 557021
+                    },
+                    {
+                      "ElementName": "XBiotech Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 876399
+                    },
+                    {
+                      "ElementName": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 598389
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Hyman Cluett",
+                  "Element": [
+                    {
+                      "ElementName": "China Information Technology, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 435860
+                    },
+                    {
+                      "ElementName": "German American Bancorp, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 27698
+                    },
+                    {
+                      "ElementName": "Clorox Company (The)",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 904437
+                    },
+                    {
+                      "ElementName": "The RMR Group Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 194197
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Nettie McFadden",
+                  "Element": [
+                    {
+                      "ElementName": "Cliffs Natural Resources Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 841898
+                    },
+                    {
+                      "ElementName": "Tower International, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 689090
+                    },
+                    {
+                      "ElementName": "Simon Property Group, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 315469
+                    },
+                    {
+                      "ElementName": "Carrols Restaurant Group, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 952469
+                    },
+                    {
+                      "ElementName": "Virtus Total Return Fund Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 859021
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "CN",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Helena Denerley",
+                  "Element": [
+                    {
+                      "ElementName": "Anthem, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 474068
+                    },
+                    {
+                      "ElementName": "Superior Uniform Group, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 522953
+                    },
+                    {
+                      "ElementName": "Costamare Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 276609
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Julee McTerrelly",
+                  "Element": [
+                    {
+                      "ElementName": "USD Partners LP",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 758399
+                    },
+                    {
+                      "ElementName": "Office Depot, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 805642
+                    },
+                    {
+                      "ElementName": "CECO Environmental Corp.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 869891
+                    },
+                    {
+                      "ElementName": "Boston Omaha Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 778934
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Mile Trood",
+                  "Element": [
+                    {
+                      "ElementName": "The York Water Company",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 941993
+                    },
+                    {
+                      "ElementName": "Silvercrest Asset Management Group Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 33166
+                    },
+                    {
+                      "ElementName": "Range Resources Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 205679
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Delcine Getten",
+                  "Element": [
+                    {
+                      "ElementName": "Newell Brands Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 158592
+                    },
+                    {
+                      "ElementName": "Beacon Roofing Supply, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 552567
+                    },
+                    {
+                      "ElementName": "Perceptron, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 212562
+                    },
+                    {
+                      "ElementName": "WideOpenWest, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 61155
+                    },
+                    {
+                      "ElementName": "Carvana Co.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 191186
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Prissie Harrington",
+                  "Element": [
+                    {
+                      "ElementName": "Superior Energy Services, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 706792
+                    },
+                    {
+                      "ElementName": "Baidu, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 68692
+                    },
+                    {
+                      "ElementName": "M/I Homes, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 661802
+                    },
+                    {
+                      "ElementName": "Regions Financial Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 850762
+                    },
+                    {
+                      "ElementName": "PowerShares Water Resources Portfolio",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 208494
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "PH",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Goldarina Willcox",
+                  "Element": [
+                    {
+                      "ElementName": "Oxbridge Re Holdings Limited",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 263748
+                    },
+                    {
+                      "ElementName": "China New Borun Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 718295
+                    },
+                    {
+                      "ElementName": "Summit Financial Group, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 463723
+                    },
+                    {
+                      "ElementName": "TravelCenters of America LLC",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 470788
+                    },
+                    {
+                      "ElementName": "Genesee & Wyoming, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 323341
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Cathie Davydenko",
+                  "Element": [
+                    {
+                      "ElementName": "Gladstone Commercial Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 903536
+                    },
+                    {
+                      "ElementName": "Alico, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 753587
+                    },
+                    {
+                      "ElementName": "Blackrock MuniYield Michigan Quality Fund, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 963247
+                    },
+                    {
+                      "ElementName": "NCS Multistage Holdings, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 946051
+                    },
+                    {
+                      "ElementName": "Horizon Technology Finance Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 371336
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Jermain Daldry",
+                  "Element": [
+                    {
+                      "ElementName": "Graham Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 495363
+                    },
+                    {
+                      "ElementName": "DHT Holdings, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 562290
+                    },
+                    {
+                      "ElementName": "The Meet Group, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 405430
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Griz Milburne",
+                  "Element": [
+                    {
+                      "ElementName": "Arconic Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 609806
+                    },
+                    {
+                      "ElementName": "Carnival Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 72142
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "IncomeTypeName": "Squirrel, thirteen-lined",
+          "TaxBaseTypeIndicator": "M",
+          "IncomeTypeAmount": 244589.26,
+          "IncomeTypeDetails": [
+            {
+              "IncomeTypeDetailsId": "CN",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Dionne Fisbey",
+                  "Element": [
+                    {
+                      "ElementName": "Actua Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 21767
+                    },
+                    {
+                      "ElementName": "Wilhelmina International, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 422262
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Wynne Geertje",
+                  "Element": [
+                    {
+                      "ElementName": "Knowles Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 319735
+                    },
+                    {
+                      "ElementName": "Kroger Company (The)",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 264714
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "TH",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Luci Wank",
+                  "Element": [
+                    {
+                      "ElementName": "Las Vegas Sands Corp.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 764171
+                    },
+                    {
+                      "ElementName": "McCormick & Company, Incorporated",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 330036
+                    },
+                    {
+                      "ElementName": "TCW Strategic Income Fund, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 426241
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Simone Eschelle",
+                  "Element": [
+                    {
+                      "ElementName": "Domino's Pizza Inc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 543192
+                    },
+                    {
+                      "ElementName": "GTY Technology Holdings, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 971875
+                    },
+                    {
+                      "ElementName": "Neos Therapeutics, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 276145
+                    },
+                    {
+                      "ElementName": "Seagate Technology PLC",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 52927
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Correy Ash",
+                  "Element": [
+                    {
+                      "ElementName": "Cohen & Steers Quality Income Realty Fund Inc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 222094
+                    },
+                    {
+                      "ElementName": "Envision Healthcare Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 201628
+                    },
+                    {
+                      "ElementName": "Jacksonville Bancorp Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 972329
+                    },
+                    {
+                      "ElementName": "Nuveen Select Maturities Municipal Fund",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 795359
+                    },
+                    {
+                      "ElementName": "China Xiniya Fashion Limited",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 174140
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Godfry Bewfield",
+                  "Element": [
+                    {
+                      "ElementName": "Mallinckrodt plc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 725523
+                    },
+                    {
+                      "ElementName": "Bruker Corporation",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 393981
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "IncomeTypeDetailsId": "SE",
+              "AdditionalInformation": [
+                {
+                  "ElementGroupName": "Gilberta Cregan",
+                  "Element": [
+                    {
+                      "ElementName": "Cohen & Steers Inc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 185765
+                    },
+                    {
+                      "ElementName": "Crawford & Company",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 764656
+                    },
+                    {
+                      "ElementName": "Maxim Integrated Products, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 497704
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Artemus Brambley",
+                  "Element": [
+                    {
+                      "ElementName": "Financial Institutions, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 566795
+                    },
+                    {
+                      "ElementName": "Community First Bancshares, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 862079
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Elana Benoist",
+                  "Element": [
+                    {
+                      "ElementName": "Enersys",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 820924
+                    },
+                    {
+                      "ElementName": "Rennova Health, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 973108
+                    },
+                    {
+                      "ElementName": "Ashford Hospitality Trust Inc",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 284157
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Linea Brims",
+                  "Element": [
+                    {
+                      "ElementName": "Bioverativ Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 468225
+                    },
+                    {
+                      "ElementName": "Discovery Communications, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 324851
+                    },
+                    {
+                      "ElementName": "Itron, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 999897
+                    },
+                    {
+                      "ElementName": "Safety Insurance Group, Inc.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 755294
+                    },
+                    {
+                      "ElementName": "iStar Financial Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 613243
+                    }
+                  ]
+                },
+                {
+                  "ElementGroupName": "Martelle Blackbrough",
+                  "Element": [
+                    {
+                      "ElementName": "Sociedad Quimica y Minera S.A.",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 918824
+                    },
+                    {
+                      "ElementName": "RAIT Financial Trust",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 184471
+                    },
+                    {
+                      "ElementName": "Ikonics Corporation",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 797237
+                    },
+                    {
+                      "ElementName": "Seacoast Banking Corporation of Florida",
+                      "ElementDataTypeIndicator": "M",
+                      "ElementValue": 494924
+                    },
+                    {
+                      "ElementName": "HMN Financial, Inc.",
+                      "ElementDataTypeIndicator": "F",
+                      "ElementValue": 164728
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
