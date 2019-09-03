@@ -20,7 +20,7 @@
         "incomeType": [
           {
             "name": "4.1.1 Bankinnskudd",
-            "taxBaseTypeIndicator": "G",
+            "taxBaseTypeIndicator": "S",
             "amount": 135685,
             "incomeTypeDetails": [
               {
